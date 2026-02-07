@@ -43,6 +43,10 @@
    - 开启 **开发者模式**。
    - 点击 **加载已解压的扩展程序**，选择本仓库中的 `dist` 文件夹。
 
+### 使用 CRX 安装 (推荐分发方式)
+- 直接将本仓库根目录下的 `XQuery.crx` 文件拖入 `chrome://extensions` 页面即可。
+- *注意：某些 Chrome 浏览器版本可能需要开启“开发者模式”才能通过拖拽安装。*
+
 ## 使用说明
 
 1. 打开 [x.com](https://x.com)。
@@ -103,6 +107,10 @@ Advanced X.com search query builder and manager. This Chrome extension helps you
    - Open Chrome and go to `chrome://extensions`.
    - Enable **Developer mode**.
    - Click **Load unpacked** and select the `dist` folder in this repository.
+
+### Installation via CRX (Recommended for Distribution)
+- Drag and drop the `XQuery.crx` file from the root directory into the `chrome://extensions` page.
+- *Note: Some Chrome versions may require "Developer mode" to be enabled for drag-and-drop installation.*
 
 ## Usage
 
