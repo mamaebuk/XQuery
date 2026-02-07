@@ -2,6 +2,8 @@
 
 高级 X.com 搜索查询构建器和管理器。此 Chrome 扩展程序通过强大的搜索模板和自定义查询构建器，帮助您在 X.com 上发现高质量内容。
 
+![预览图](public/preview.png)
+
 ## 📥 快速安装 (推荐)
 
 如果您不想从源码构建，可以直接使用我们提供的预构建版本：
@@ -44,6 +46,8 @@ MIT
 
 Advanced X.com search query builder and manager. This Chrome extension helps you find high-quality content on X.com using powerful search templates and a custom query builder.
 
+![Extension Preview](public/preview.png)
+
 ## 📥 Quick Start (Recommended)
 
 If you don't want to build from source, you can use the pre-built version directly:
@@ -66,7 +70,7 @@ If you don't want to build from source, you can use the pre-built version direct
 - **🔖 Favorites Manager**: Save and trigger frequently used search queries.
 - **🔗 Deep X Integration**: Navigates directly to live search results on X.com.
 
-## �️ Developer Guide (Build from Source)
+## 🛠️ Developer Guide (Build from Source)
 
 1. **Prerequisites**: Ensure you have Node.js and `pnpm` installed.
 2. **Install**: `pnpm install`
